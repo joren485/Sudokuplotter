@@ -13,8 +13,8 @@ Main code:
 * Algx.py: Algorithm X, used to solve the sudoku. 
 * Motor_control.py: Code used to control the motors through Piface.
 
-Algx:
-=====
+#### Algx:
+
 
 Sudoku Solver using Knuth's Algorithm X
 
@@ -27,8 +27,7 @@ Sudoku Cloud is the Sudoku solver, but in server form. You can run the actual so
 TODO:
  - use multi-threading or multiprocessing (probably the latter because of the GIL)
 
-Finder:
-=======
+#### Finder:
 
 Dependencies:
  - Numpy
