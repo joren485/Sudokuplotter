@@ -4,7 +4,7 @@ Sudokuplotter
 Code used to run an automatic sudoku solver.
 Video of the plotter in action: https://www.youtube.com/watch?v=0O7KezpXGDY
 
-==Main code:
+Main code:
 
 * Comb.py: The main program, it combines all the different parts
 * Finder.py: OCR for to recognize the sudoku from a photo.
