@@ -7,7 +7,7 @@ Created by Jos Feenstra and my self, our supervisor was Dov Scheinowitz.
 ####Media:
 
 * Het Profielwerkstuk.pdf: The paper we wrote about the plotter, describing how the plotter works and how we built it. (It is written in Dutch)
-* A blog post about our plotter: http://makered.nl/?p=599 (Thanks to @arjanvandermeij)
+* A blog post about our plotter: [De sudokuplotter](http://makered.nl/?p=599) (Thanks to @arjanvandermeij)
 
 * Video of the plotter in action: https://www.youtube.com/watch?v=0O7KezpXGDY
 
