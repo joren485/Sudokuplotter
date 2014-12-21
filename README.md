@@ -2,6 +2,8 @@ Sudokuplotter
 =============
 
 Code used to run an automatic sudoku solver.
+Created by Jos Feenstra and my self, our suporvisor was Dov Scheinowitz.
+
 Video of the plotter in action: https://www.youtube.com/watch?v=0O7KezpXGDY
 
 Main code:
