@@ -7,7 +7,7 @@ Created by Jos Feenstra and my self, our supervisor was Dov Scheinowitz.
 Het Profielwerkstuk.pdf: The paper we wrote about the plotter, describing how the plotter works and how we built it. (It is in Dutch)
 Video of the plotter in action: https://www.youtube.com/watch?v=0O7KezpXGDY
 
-Main code:
+#### Main code:
 
 * Comb.py: The main program, it combines all the different parts
 * Finder.py: OCR for to recognize the sudoku from a photo.
@@ -15,7 +15,6 @@ Main code:
 * Motor_control.py: Code used to control the motors through Piface.
 
 #### Algx:
-
 
 Sudoku Solver using Knuth's Algorithm X
 
@@ -26,14 +25,14 @@ Hard sudoku's take about .2~.3 seconds to solve on a modern computer. And about 
 Sudoku Cloud is the Sudoku solver, but in server form. You can run the actual solving code on a 8-core VPS and connect the Raspberry Pi to the VPS via the internet.
 
 TODO:
- - use multi-threading or multiprocessing (probably the latter because of the GIL)
+ * use multi-threading or multiprocessing (probably the latter because of the GIL)
 
 #### Finder:
 
 Dependencies:
- - Numpy
- - OpenCV2
- - Python-Tesseract
+ * Numpy
+ * OpenCV2
+ * Python-Tesseract
 
 
 
