@@ -7,8 +7,8 @@ Created by Jos Feenstra and my self, our supervisor was Dov Scheinowitz.
 ####Media:
 
 * Jos and I won the 1st place 3i Award. The 3i Award is an award for the best ICT related schoolprojects. It is an initiave of [Instruct](http://www.instruct.nl/): [3i Award](http://www.instruct.nl/product/298//informaticaprijs)
-* Het Profielwerkstuk.pdf: The paper we wrote about the plotter, describing how the plotter works and how we built it. (It is written in Dutch)
-* Jong_Geleerd_2.0_Maker_in_het_onderwijs.pdf: [Kennisnet](http://www.kennisnet.nl/) made an folder about maker education. Jos and I were lucky enough to be in it.
+* **Het Profielwerkstuk.pdf**: The paper we wrote about the plotter, describing how the plotter works and how we built it. (It is written in Dutch)
+* **Jong_Geleerd_2.0_Maker_in_het_onderwijs.pdf**: [Kennisnet](http://www.kennisnet.nl/) made an folder about maker education. Jos and I were lucky enough to be in it.
 * A blog post about our plotter on [Makered.nl](http://makered.nl/): [De sudokuplotter](http://makered.nl/?p=599) (Thanks to [@arjanvandermeij](https://twitter.com/arjanvandermeij))
 * Video of the plotter in action: [Sudoku plotter time lapse ](https://www.youtube.com/watch?v=0O7KezpXGDY)
 
